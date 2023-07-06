@@ -1,0 +1,3230 @@
+{
+    "modules": {
+        "sky130_ef_io__gpiov2_pad_wrapped": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "PAD": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "IN": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__clkbuf_8": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__buf_6": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__buf_12": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__clkbuf_16": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__mux2_1": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A0": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                },
+                "A1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "S": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__inv_4": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "Y": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__dfstp_1": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "CLK": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "Q": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__clkinv_4": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "Y": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__and2b_4": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A_N": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__buf_8": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__a21oi_1": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "Y": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__dlygate4sd3_1": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__clkbuf_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__o21a_1": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "B1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__dfxtp_4": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "D": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "CLK": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "Q": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__and2_4": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "B": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                },
+                "A": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__dfxtp_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "D": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "CLK": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "Q": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__nand2_8": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "Y": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__and4bb_4": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "C": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__nand3_4": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "C": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "Y": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                },
+                "A": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__a21o_4": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__clkinv_8": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "Y": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__a21oi_4": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "B1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "Y": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__and3b_4": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "B": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__mux2_4": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "S": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                },
+                "A1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "A0": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__buf_4": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__mux2_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                },
+                "A0": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "S": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__mux2_8": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "S": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                },
+                "A0": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__nand2_1": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "Y": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__dfxtp_1": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "D": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "CLK": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "Q": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__and2_1": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__inv_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "Y": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__a211oi_4": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "C1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "Y": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__and3_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                },
+                "C": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "B": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__and4_4": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "D": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__nand2b_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A_N": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "Y": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                },
+                "B": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__nand2_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "B": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "Y": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                },
+                "A": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__o211a_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A2": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                },
+                "C1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "B1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__and3_4": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "B": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__nor2_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "Y": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                },
+                "B": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__and4_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "B": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                },
+                "A": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__a21o_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "B1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                },
+                "A2": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__o311a_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "C1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                },
+                "A2": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__o31a_4": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A3": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__and2b_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A_N": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__a211o_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "C1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                },
+                "B1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__a311o_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "C1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                },
+                "A1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__o21a_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "B1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                },
+                "A2": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "A1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__a22o_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "B1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                },
+                "A2": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "A1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__a21oi_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "B1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "Y": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                },
+                "A1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "A2": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__a311o_4": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__o21ba_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "B1_N": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                },
+                "A2": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "A1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__and4bb_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "C": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__a41o_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "B1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                },
+                "A1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "A4": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__clkbuf_4": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__a21bo_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A2": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                },
+                "B1_N": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__a2bb2o_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "B1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                },
+                "A2_N": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "B2": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__clkdlybuf4s15_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__o2111a_4": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "C1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__o21ai_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "B1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "Y": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                },
+                "A2": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__o221a_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "B2": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__nand3b_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "C": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "Y": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                },
+                "B": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__o31ai_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "B1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "Y": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__o2111a_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "D1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__o22a_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A2": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                },
+                "A1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__a31o_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A2": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                },
+                "B1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "A3": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "A1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__a31oi_4": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A2": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "Y": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                },
+                "A1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__a311oi_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "C1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "Y": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__a32oi_4": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A2": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "Y": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__a221o_4": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "C1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                },
+                "A1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__a221o_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "C1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                },
+                "A1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "B1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "A2": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__a2111o_4": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "B1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__o21ai_4": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "B1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "Y": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__a2111o_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "B1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                },
+                "C1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__clkdlybuf4s18_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__nor2_4": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "B": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "Y": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__a221oi_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "C1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "Y": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                },
+                "B1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__and3b_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "B": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                },
+                "A_N": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "C": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__a211o_4": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "B1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                },
+                "C1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__o21bai_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "B1_N": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "Y": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__a211oi_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "B1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "Y": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                },
+                "C1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__o21bai_4": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "B1_N": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "Y": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__o21a_4": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "B1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__a221oi_4": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "B1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "Y": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                },
+                "C1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "A2": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__nand2b_4": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A_N": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "Y": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__nor3_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "C": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "Y": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__o31a_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "B1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__nand3b_4": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "B": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "Y": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__buf_1": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__a31oi_2": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A1": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "Y": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__dlymetal6s2s_1": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__nand2_4": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "Y": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__clkbuf_1": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "sky130_fd_sc_hd__clkdlybuf4s25_1": {
+            "attributes": {
+                "blackbox": "00000000000000000000000000000001"
+            },
+            "ports": {
+                "A": {
+                    "direction": "input",
+                    "bits": [
+                        0
+                    ]
+                },
+                "X": {
+                    "direction": "output",
+                    "bits": [
+                        0
+                    ]
+                }
+            }
+        },
+        "top": {
+            "attributes": {
+                "top": "00000000000000000000000000000001"
+            },
+            "cells": {
+                "padframe_clock_pad": {
+                    "type": "sky130_ef_io__gpiov2_pad_wrapped",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "PAD": "input",
+                        "IN": "output"
+                    },
+                    "connections": {
+                        "PAD": [
+                            -2
+                        ],
+                        "IN": [
+                            0
+                        ]
+                    }
+                },
+                "chip_core_input43": {
+                    "type": "sky130_fd_sc_hd__clkbuf_8",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "A": "input",
+                        "X": "output"
+                    },
+                    "connections": {
+                        "A": [
+                            0
+                        ],
+                        "X": [
+                            1
+                        ]
+                    }
+                },
+                "chip_core_input1": {
+                    "type": "sky130_fd_sc_hd__buf_6",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "A": "input",
+                        "X": "output"
+                    },
+                    "connections": {
+                        "A": [
+                            1
+                        ],
+                        "X": [
+                            2
+                        ]
+                    }
+                },
+                "chip_core_wire2929": {
+                    "type": "sky130_fd_sc_hd__buf_12",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "A": "input",
+                        "X": "output"
+                    },
+                    "connections": {
+                        "A": [
+                            2
+                        ],
+                        "X": [
+                            3
+                        ]
+                    }
+                },
+                "chip_core_clock_ctrl_clkbuf_0_ext_clk": {
+                    "type": "sky130_fd_sc_hd__clkbuf_16",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "A": "input",
+                        "X": "output"
+                    },
+                    "connections": {
+                        "A": [
+                            3
+                        ],
+                        "X": [
+                            4
+                        ]
+                    }
+                },
+                "chip_core_clock_ctrl_clkbuf_1_1__f_ext_clk": {
+                    "type": "sky130_fd_sc_hd__clkbuf_16",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "A": "input",
+                        "X": "output"
+                    },
+                    "connections": {
+                        "A": [
+                            4
+                        ],
+                        "X": [
+                            5
+                        ]
+                    }
+                },
+                "chip_core_clock_ctrl__207_": {
+                    "type": "sky130_fd_sc_hd__mux2_1",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "A0": "input",
+                        "X": "output"
+                    },
+                    "connections": {
+                        "A0": [
+                            5
+                        ],
+                        "X": [
+                            6
+                        ]
+                    }
+                },
+                "chip_core_clock_ctrl_clkbuf_0__037_": {
+                    "type": "sky130_fd_sc_hd__clkbuf_16",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "A": "input",
+                        "X": "output"
+                    },
+                    "connections": {
+                        "A": [
+                            6
+                        ],
+                        "X": [
+                            7
+                        ]
+                    }
+                },
+                "chip_core_clock_ctrl_clkbuf_1_0__f__037_": {
+                    "type": "sky130_fd_sc_hd__clkbuf_16",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "A": "input",
+                        "X": "output"
+                    },
+                    "connections": {
+                        "A": [
+                            7
+                        ],
+                        "X": [
+                            8
+                        ]
+                    }
+                },
+                "chip_core_clock_ctrl__208_": {
+                    "type": "sky130_fd_sc_hd__mux2_1",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "A0": "input",
+                        "X": "output"
+                    },
+                    "connections": {
+                        "A0": [
+                            8
+                        ],
+                        "X": [
+                            9
+                        ]
+                    }
+                },
+                "chip_core_clock_ctrl_clkbuf_0_net11": {
+                    "type": "sky130_fd_sc_hd__clkbuf_16",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "A": "input",
+                        "X": "output"
+                    },
+                    "connections": {
+                        "A": [
+                            9
+                        ],
+                        "X": [
+                            10
+                        ]
+                    }
+                },
+                "chip_core_clock_ctrl_clkbuf_1_1__f_net11": {
+                    "type": "sky130_fd_sc_hd__clkbuf_16",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "A": "input",
+                        "X": "output"
+                    },
+                    "connections": {
+                        "A": [
+                            10
+                        ],
+                        "X": [
+                            11
+                        ]
+                    }
+                },
+                "chip_core_clock_ctrl__257__7": {
+                    "type": "sky130_fd_sc_hd__inv_4",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "A": "input",
+                        "Y": "output"
+                    },
+                    "connections": {
+                        "A": [
+                            11
+                        ],
+                        "Y": [
+                            12
+                        ]
+                    }
+                },
+                "chip_core_clock_ctrl__414_": {
+                    "type": "sky130_fd_sc_hd__dfstp_1",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "CLK": "input",
+                        "Q": "output"
+                    },
+                    "connections": {
+                        "CLK": [
+                            12
+                        ],
+                        "Q": [
+                            13
+                        ]
+                    }
+                },
+                "chip_core_clock_ctrl__256_": {
+                    "type": "sky130_fd_sc_hd__clkinv_4",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "A": "input",
+                        "Y": "output"
+                    },
+                    "connections": {
+                        "A": [
+                            13
+                        ],
+                        "Y": [
+                            14
+                        ]
+                    }
+                },
+                "chip_core_clock_ctrl_output12": {
+                    "type": "sky130_fd_sc_hd__buf_12",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "A": "input",
+                        "X": "output"
+                    },
+                    "connections": {
+                        "A": [
+                            14
+                        ],
+                        "X": [
+                            15
+                        ]
+                    }
+                },
+                "chip_core_wire2844": {
+                    "type": "sky130_fd_sc_hd__buf_6",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "A": "input",
+                        "X": "output"
+                    },
+                    "connections": {
+                        "A": [
+                            15
+                        ],
+                        "X": [
+                            16
+                        ]
+                    }
+                },
+                "chip_core__24098_": {
+                    "type": "sky130_fd_sc_hd__and2b_4",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "A_N": "input",
+                        "X": "output"
+                    },
+                    "connections": {
+                        "A_N": [
+                            16
+                        ],
+                        "X": [
+                            17
+                        ]
+                    }
+                },
+                "chip_core_wire2723": {
+                    "type": "sky130_fd_sc_hd__buf_12",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "A": "input",
+                        "X": "output"
+                    },
+                    "connections": {
+                        "A": [
+                            17
+                        ],
+                        "X": [
+                            18
+                        ]
+                    }
+                },
+                "chip_core_mprj_mprj_input37": {
+                    "type": "sky130_fd_sc_hd__buf_8",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "A": "input",
+                        "X": "output"
+                    },
+                    "connections": {
+                        "A": [
+                            18
+                        ],
+                        "X": [
+                            19
+                        ]
+                    }
+                },
+                "chip_core_mprj_mprj__148_": {
+                    "type": "sky130_fd_sc_hd__a21oi_1",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "A1": "input",
+                        "Y": "output"
+                    },
+                    "connections": {
+                        "A1": [
+                            19
+                        ],
+                        "Y": [
+                            20
+                        ]
+                    }
+                },
+                "chip_core_mprj_mprj_hold76": {
+                    "type": "sky130_fd_sc_hd__dlygate4sd3_1",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "A": "input",
+                        "X": "output"
+                    },
+                    "connections": {
+                        "A": [
+                            20
+                        ],
+                        "X": [
+                            21
+                        ]
+                    }
+                },
+                "chip_core_mprj_mprj_hold19": {
+                    "type": "sky130_fd_sc_hd__clkbuf_2",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "A": "input",
+                        "X": "output"
+                    },
+                    "connections": {
+                        "A": [
+                            21
+                        ],
+                        "X": [
+                            22
+                        ]
+                    }
+                },
+                "chip_core_mprj_mprj_fanout138": {
+                    "type": "sky130_fd_sc_hd__buf_12",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "A": "input",
+                        "X": "output"
+                    },
+                    "connections": {
+                        "A": [
+                            22
+                        ],
+                        "X": [
+                            23
+                        ]
+                    }
+                },
+                "chip_core_mprj_mprj__246_": {
+                    "type": "sky130_fd_sc_hd__o21a_1",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "B1": "input",
+                        "X": "output"
+                    },
+                    "connections": {
+                        "B1": [
+                            23
+                        ],
+                        "X": [
+                            24
+                        ]
+                    }
+                },
+                "chip_core_mprj_mprj_hold182": {
+                    "type": "sky130_fd_sc_hd__dlygate4sd3_1",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "A": "input",
+                        "X": "output"
+                    },
+                    "connections": {
+                        "A": [
+                            24
+                        ],
+                        "X": [
+                            25
+                        ]
+                    }
+                },
+                "chip_core_mprj_mprj_hold37": {
+                    "type": "sky130_fd_sc_hd__dlygate4sd3_1",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "A": "input",
+                        "X": "output"
+                    },
+                    "connections": {
+                        "A": [
+                            25
+                        ],
+                        "X": [
+                            26
+                        ]
+                    }
+                },
+                "chip_core_mprj_mprj_hold183": {
+                    "type": "sky130_fd_sc_hd__dlygate4sd3_1",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "A": "input",
+                        "X": "output"
+                    },
+                    "connections": {
+                        "A": [
+                            26
+                        ],
+                        "X": [
+                            27
+                        ]
+                    }
+                },
+                "chip_core_mprj_mprj__283_": {
+                    "type": "sky130_fd_sc_hd__dfxtp_4",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "D": "input",
+                        "CLK": "input"
+                    },
+                    "connections": {
+                        "D": [
+                            27
+                        ],
+                        "CLK": [
+                            51
+                        ]
+                    }
+                },
+                "chip_core_clock_ctrl_clkbuf_1_0__f_net11": {
+                    "type": "sky130_fd_sc_hd__clkbuf_16",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "A": "input",
+                        "X": "output"
+                    },
+                    "connections": {
+                        "A": [
+                            10
+                        ],
+                        "X": [
+                            40
+                        ]
+                    }
+                },
+                "chip_core_clkbuf_0_mgmt_buffers_caravel_clk": {
+                    "type": "sky130_fd_sc_hd__clkbuf_16",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "A": "input",
+                        "X": "output"
+                    },
+                    "connections": {
+                        "A": [
+                            40
+                        ],
+                        "X": [
+                            41
+                        ]
+                    }
+                },
+                "chip_core_clkbuf_1_0_0_mgmt_buffers_caravel_clk": {
+                    "type": "sky130_fd_sc_hd__clkbuf_8",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "A": "input",
+                        "X": "output"
+                    },
+                    "connections": {
+                        "A": [
+                            41
+                        ],
+                        "X": [
+                            42
+                        ]
+                    }
+                },
+                "chip_core_clkbuf_2_1_0_mgmt_buffers_caravel_clk": {
+                    "type": "sky130_fd_sc_hd__clkbuf_8",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "A": "input",
+                        "X": "output"
+                    },
+                    "connections": {
+                        "A": [
+                            42
+                        ],
+                        "X": [
+                            43
+                        ]
+                    }
+                },
+                "chip_core_clkbuf_3_2_0_mgmt_buffers_caravel_clk": {
+                    "type": "sky130_fd_sc_hd__clkbuf_8",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "A": "input",
+                        "X": "output"
+                    },
+                    "connections": {
+                        "A": [
+                            43
+                        ],
+                        "X": [
+                            44
+                        ]
+                    }
+                },
+                "chip_core_clkbuf_5_10_0_mgmt_buffers_caravel_clk": {
+                    "type": "sky130_fd_sc_hd__clkbuf_8",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "A": "input",
+                        "X": "output"
+                    },
+                    "connections": {
+                        "A": [
+                            44
+                        ],
+                        "X": [
+                            45
+                        ]
+                    }
+                },
+                "chip_core_clkbuf_7_42__f_mgmt_buffers_caravel_clk": {
+                    "type": "sky130_fd_sc_hd__clkbuf_16",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "A": "input",
+                        "X": "output"
+                    },
+                    "connections": {
+                        "A": [
+                            45
+                        ],
+                        "X": [
+                            46
+                        ]
+                    }
+                },
+                "chip_core__24097_": {
+                    "type": "sky130_fd_sc_hd__and2_4",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "B": "input",
+                        "X": "output"
+                    },
+                    "connections": {
+                        "B": [
+                            46
+                        ],
+                        "X": [
+                            47
+                        ]
+                    }
+                },
+                "chip_core_mprj_mprj__150_": {
+                    "type": "sky130_fd_sc_hd__mux2_1",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "A1": "input",
+                        "X": "output"
+                    },
+                    "connections": {
+                        "A1": [
+                            47
+                        ],
+                        "X": [
+                            48
+                        ]
+                    }
+                },
+                "chip_core_mprj_mprj_clkbuf_0_counter_clk": {
+                    "type": "sky130_fd_sc_hd__clkbuf_16",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "A": "input",
+                        "X": "output"
+                    },
+                    "connections": {
+                        "A": [
+                            48
+                        ],
+                        "X": [
+                            49
+                        ]
+                    }
+                },
+                "chip_core_mprj_mprj_clkbuf_1_0_0_counter_clk": {
+                    "type": "sky130_fd_sc_hd__clkbuf_8",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "A": "input",
+                        "X": "output"
+                    },
+                    "connections": {
+                        "A": [
+                            49
+                        ],
+                        "X": [
+                            50
+                        ]
+                    }
+                },
+                "chip_core_mprj_mprj_clkbuf_2_1__f_counter_clk": {
+                    "type": "sky130_fd_sc_hd__clkbuf_16",
+                    "attributes": {
+                        "module_not_derived": "00000000000000000000000000000001"
+                    },
+                    "port_directions": {
+                        "A": "input",
+                        "X": "output"
+                    },
+                    "connections": {
+                        "A": [
+                            50
+                        ],
+                        "X": [
+                            51
+                        ]
+                    }
+                }
+            },
+            "netnames": {
+                "net0": {
+                    "bits": [
+                        0
+                    ],
+                    "hide_name": 0
+                },
+                "net1": {
+                    "bits": [
+                        1
+                    ],
+                    "hide_name": 0
+                },
+                "net2": {
+                    "bits": [
+                        2
+                    ],
+                    "hide_name": 0
+                },
+                "net3": {
+                    "bits": [
+                        3
+                    ],
+                    "hide_name": 0
+                },
+                "net4": {
+                    "bits": [
+                        4
+                    ],
+                    "hide_name": 0
+                },
+                "net5": {
+                    "bits": [
+                        5
+                    ],
+                    "hide_name": 0
+                },
+                "net6": {
+                    "bits": [
+                        6
+                    ],
+                    "hide_name": 0
+                },
+                "net7": {
+                    "bits": [
+                        7
+                    ],
+                    "hide_name": 0
+                },
+                "net8": {
+                    "bits": [
+                        8
+                    ],
+                    "hide_name": 0
+                },
+                "net9": {
+                    "bits": [
+                        9
+                    ],
+                    "hide_name": 0
+                },
+                "net10": {
+                    "bits": [
+                        10
+                    ],
+                    "hide_name": 0
+                },
+                "net11": {
+                    "bits": [
+                        11
+                    ],
+                    "hide_name": 0
+                },
+                "net12": {
+                    "bits": [
+                        12
+                    ],
+                    "hide_name": 0
+                },
+                "net13": {
+                    "bits": [
+                        13
+                    ],
+                    "hide_name": 0
+                },
+                "net14": {
+                    "bits": [
+                        14
+                    ],
+                    "hide_name": 0
+                },
+                "net15": {
+                    "bits": [
+                        15
+                    ],
+                    "hide_name": 0
+                },
+                "net16": {
+                    "bits": [
+                        16
+                    ],
+                    "hide_name": 0
+                },
+                "net17": {
+                    "bits": [
+                        17
+                    ],
+                    "hide_name": 0
+                },
+                "net18": {
+                    "bits": [
+                        18
+                    ],
+                    "hide_name": 0
+                },
+                "net19": {
+                    "bits": [
+                        19
+                    ],
+                    "hide_name": 0
+                },
+                "net20": {
+                    "bits": [
+                        20
+                    ],
+                    "hide_name": 0
+                },
+                "net21": {
+                    "bits": [
+                        21
+                    ],
+                    "hide_name": 0
+                },
+                "net22": {
+                    "bits": [
+                        22
+                    ],
+                    "hide_name": 0
+                },
+                "net23": {
+                    "bits": [
+                        23
+                    ],
+                    "hide_name": 0
+                },
+                "net24": {
+                    "bits": [
+                        24
+                    ],
+                    "hide_name": 0
+                },
+                "net25": {
+                    "bits": [
+                        25
+                    ],
+                    "hide_name": 0
+                },
+                "net26": {
+                    "bits": [
+                        26
+                    ],
+                    "hide_name": 0
+                },
+                "net27": {
+                    "bits": [
+                        27
+                    ],
+                    "hide_name": 0
+                },
+                "net28": {
+                    "bits": [
+                        28
+                    ],
+                    "hide_name": 0
+                },
+                "net29": {
+                    "bits": [
+                        29
+                    ],
+                    "hide_name": 0
+                },
+                "net30": {
+                    "bits": [
+                        30
+                    ],
+                    "hide_name": 0
+                },
+                "net31": {
+                    "bits": [
+                        31
+                    ],
+                    "hide_name": 0
+                },
+                "net32": {
+                    "bits": [
+                        32
+                    ],
+                    "hide_name": 0
+                },
+                "net33": {
+                    "bits": [
+                        33
+                    ],
+                    "hide_name": 0
+                },
+                "net34": {
+                    "bits": [
+                        34
+                    ],
+                    "hide_name": 0
+                },
+                "net35": {
+                    "bits": [
+                        35
+                    ],
+                    "hide_name": 0
+                },
+                "net36": {
+                    "bits": [
+                        36
+                    ],
+                    "hide_name": 0
+                },
+                "net37": {
+                    "bits": [
+                        37
+                    ],
+                    "hide_name": 0
+                },
+                "net38": {
+                    "bits": [
+                        38
+                    ],
+                    "hide_name": 0
+                },
+                "net39": {
+                    "bits": [
+                        39
+                    ],
+                    "hide_name": 0
+                },
+                "net40": {
+                    "bits": [
+                        40
+                    ],
+                    "hide_name": 0
+                },
+                "net41": {
+                    "bits": [
+                        41
+                    ],
+                    "hide_name": 0
+                },
+                "net42": {
+                    "bits": [
+                        42
+                    ],
+                    "hide_name": 0
+                },
+                "net43": {
+                    "bits": [
+                        43
+                    ],
+                    "hide_name": 0
+                },
+                "net44": {
+                    "bits": [
+                        44
+                    ],
+                    "hide_name": 0
+                },
+                "net45": {
+                    "bits": [
+                        45
+                    ],
+                    "hide_name": 0
+                },
+                "net46": {
+                    "bits": [
+                        46
+                    ],
+                    "hide_name": 0
+                },
+                "net47": {
+                    "bits": [
+                        47
+                    ],
+                    "hide_name": 0
+                },
+                "net48": {
+                    "bits": [
+                        48
+                    ],
+                    "hide_name": 0
+                },
+                "net49": {
+                    "bits": [
+                        49
+                    ],
+                    "hide_name": 0
+                },
+                "net50": {
+                    "bits": [
+                        50
+                    ],
+                    "hide_name": 0
+                },
+                "net51": {
+                    "bits": [
+                        51
+                    ],
+                    "hide_name": 0
+                },
+                "net52": {
+                    "bits": [
+                        52
+                    ],
+                    "hide_name": 0
+                },
+                "net53": {
+                    "bits": [
+                        53
+                    ],
+                    "hide_name": 0
+                },
+                "net54": {
+                    "bits": [
+                        54
+                    ],
+                    "hide_name": 0
+                }
+            },
+            "ports": {
+                "clk": {
+                    "direction": "input",
+                    "bits": [
+                        -2
+                    ]
+                }
+            }
+        }
+    }
+}
